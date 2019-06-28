@@ -39,59 +39,16 @@ namespace restApi
             services.AddDbContext<RestContext>
                 (options => options.UseSqlServer(Configuration["Data:RestApiConnection:ConnectionString"]));
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
-            services.AddCors(options =>
-                {
-                    options.AddDefaultPolicy(
-                        builder =>
-                        {
-
-                            builder.WithOrigins("https://localhost:44345/");
-                        });
-                    options.AddPolicy("AnotherPolicy",
-                        builder =>
-                        {
-                            builder.WithOrigins("https://localhost:44345/Home/About")
-                                                .AllowAnyHeader()
-                                                .AllowAnyMethod();
-                        });
-                    options.AddPolicy("AllowSubdomain",
-                        builder =>
-                        {
-                            builder.SetIsOriginAllowedToAllowWildcardSubdomains();
-                        });
-                    options.AddPolicy("AllowHeaders",
-                        builder =>
-                        {
-                            builder.WithOrigins("https://localhost:44345/")
-                                .WithHeaders(HeaderNames.ContentType, "x-custom-header");
-                        });
-                    options.AddPolicy("AllowAllHeaders",
-                        builder =>
-                        {
-                            builder.WithOrigins("https://localhost:44345/")
-                                .AllowAnyHeader();
-                        });
-                    options.AddPolicy("ExposeResponseHeaders",
-                        builder =>
-                        {
-                            builder.WithOrigins("https://localhost:44345/")
-                                .WithExposedHeaders("x-custom-header");
-                        });
-                    options.AddPolicy("AllowCredentials",
-                        builder =>
-                        {
-                            builder.WithOrigins("https://localhost:44345/")
-                                .AllowCredentials();
-                        });
-                });
+            services.AddCors(
+                options => options.AddPolicy("AllowMyOrigin", buider => buider.WithOrigins("https://localhost:44363"))
+                 );
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
-            app.UseCors(policy => policy.WithHeaders(HeaderNames.CacheControl));
-            app.UseCors(MyAllowSpecificOrigins);
             app.UseHttpsRedirection();
+            app.UseCors(options => options.WithOrigins("https://localhost:44363"));
             app.UseMvc();
 
         }

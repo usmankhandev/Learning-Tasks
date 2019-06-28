@@ -1,0 +1,64 @@
+D:\Semesters\WebDev\FYP\CORSTesting\CORSTesting\bin\Debug\netcoreapp2.1\CORSTesting.deps.json
+D:\Semesters\WebDev\FYP\CORSTesting\CORSTesting\bin\Debug\netcoreapp2.1\CORSTesting.runtimeconfig.json
+D:\Semesters\WebDev\FYP\CORSTesting\CORSTesting\bin\Debug\netcoreapp2.1\CORSTesting.runtimeconfig.dev.json
+D:\Semesters\WebDev\FYP\CORSTesting\CORSTesting\bin\Debug\netcoreapp2.1\CORSTesting.dll
+D:\Semesters\WebDev\FYP\CORSTesting\CORSTesting\bin\Debug\netcoreapp2.1\CORSTesting.pdb
+D:\Semesters\WebDev\FYP\CORSTesting\CORSTesting\bin\Debug\netcoreapp2.1\CORSTesting.Views.dll
+D:\Semesters\WebDev\FYP\CORSTesting\CORSTesting\bin\Debug\netcoreapp2.1\CORSTesting.Views.pdb
+D:\Semesters\WebDev\FYP\CORSTesting\CORSTesting\obj\Debug\netcoreapp2.1\CORSTesting.csprojAssemblyReference.cache
+D:\Semesters\WebDev\FYP\CORSTesting\CORSTesting\obj\Debug\netcoreapp2.1\CORSTesting.csproj.CoreCompileInputs.cache
+D:\Semesters\WebDev\FYP\CORSTesting\CORSTesting\obj\Debug\netcoreapp2.1\CORSTesting.RazorAssemblyInfo.cache
+D:\Semesters\WebDev\FYP\CORSTesting\CORSTesting\obj\Debug\netcoreapp2.1\CORSTesting.RazorAssemblyInfo.cs
+D:\Semesters\WebDev\FYP\CORSTesting\CORSTesting\obj\Debug\netcoreapp2.1\CORSTesting.AssemblyInfoInputs.cache
+D:\Semesters\WebDev\FYP\CORSTesting\CORSTesting\obj\Debug\netcoreapp2.1\CORSTesting.AssemblyInfo.cs
+D:\Semesters\WebDev\FYP\CORSTesting\CORSTesting\obj\Debug\netcoreapp2.1\CORSTesting.TagHelpers.input.cache
+D:\Semesters\WebDev\FYP\CORSTesting\CORSTesting\obj\Debug\netcoreapp2.1\CORSTesting.TagHelpers.output.cache
+D:\Semesters\WebDev\FYP\CORSTesting\CORSTesting\obj\Debug\netcoreapp2.1\CORSTesting.RazorCoreGenerate.cache
+D:\Semesters\WebDev\FYP\CORSTesting\CORSTesting\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\Semesters\WebDev\FYP\CORSTesting\CORSTesting\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\Semesters\WebDev\FYP\CORSTesting\CORSTesting\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Semesters\WebDev\FYP\CORSTesting\CORSTesting\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Semesters\WebDev\FYP\CORSTesting\CORSTesting\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Semesters\WebDev\FYP\CORSTesting\CORSTesting\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Semesters\WebDev\FYP\CORSTesting\CORSTesting\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Semesters\WebDev\FYP\CORSTesting\CORSTesting\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Semesters\WebDev\FYP\CORSTesting\CORSTesting\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Semesters\WebDev\FYP\CORSTesting\CORSTesting\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Semesters\WebDev\FYP\CORSTesting\CORSTesting\obj\Debug\netcoreapp2.1\CORSTesting.RazorTargetAssemblyInfo.cache
+D:\Semesters\WebDev\FYP\CORSTesting\CORSTesting\obj\Debug\netcoreapp2.1\CORSTesting.RazorTargetAssemblyInfo.cs
+D:\Semesters\WebDev\FYP\CORSTesting\CORSTesting\obj\Debug\netcoreapp2.1\CORSTesting.Views.pdb
+D:\Semesters\WebDev\FYP\CORSTesting\CORSTesting\obj\Debug\netcoreapp2.1\CORSTesting.dll
+D:\Semesters\WebDev\FYP\CORSTesting\CORSTesting\obj\Debug\netcoreapp2.1\CORSTesting.pdb
+D:\Semesters\WebDev\FYP\CORSTesting\CORSTesting\obj\Debug\netcoreapp2.1\CORSTesting.csproj.CopyComplete
+C:\Users\Usman Khan\Desktop\restApi\CorsTesting\CORSTesting\CORSTesting\bin\Debug\netcoreapp2.1\CORSTesting.deps.json
+C:\Users\Usman Khan\Desktop\restApi\CorsTesting\CORSTesting\CORSTesting\bin\Debug\netcoreapp2.1\CORSTesting.runtimeconfig.json
+C:\Users\Usman Khan\Desktop\restApi\CorsTesting\CORSTesting\CORSTesting\bin\Debug\netcoreapp2.1\CORSTesting.runtimeconfig.dev.json
+C:\Users\Usman Khan\Desktop\restApi\CorsTesting\CORSTesting\CORSTesting\bin\Debug\netcoreapp2.1\CORSTesting.dll
+C:\Users\Usman Khan\Desktop\restApi\CorsTesting\CORSTesting\CORSTesting\bin\Debug\netcoreapp2.1\CORSTesting.pdb
+C:\Users\Usman Khan\Desktop\restApi\CorsTesting\CORSTesting\CORSTesting\bin\Debug\netcoreapp2.1\CORSTesting.Views.dll
+C:\Users\Usman Khan\Desktop\restApi\CorsTesting\CORSTesting\CORSTesting\bin\Debug\netcoreapp2.1\CORSTesting.Views.pdb
+C:\Users\Usman Khan\Desktop\restApi\CorsTesting\CORSTesting\CORSTesting\obj\Debug\netcoreapp2.1\CORSTesting.csprojAssemblyReference.cache
+C:\Users\Usman Khan\Desktop\restApi\CorsTesting\CORSTesting\CORSTesting\obj\Debug\netcoreapp2.1\CORSTesting.csproj.CoreCompileInputs.cache
+C:\Users\Usman Khan\Desktop\restApi\CorsTesting\CORSTesting\CORSTesting\obj\Debug\netcoreapp2.1\CORSTesting.RazorAssemblyInfo.cache
+C:\Users\Usman Khan\Desktop\restApi\CorsTesting\CORSTesting\CORSTesting\obj\Debug\netcoreapp2.1\CORSTesting.RazorAssemblyInfo.cs
+C:\Users\Usman Khan\Desktop\restApi\CorsTesting\CORSTesting\CORSTesting\obj\Debug\netcoreapp2.1\CORSTesting.AssemblyInfoInputs.cache
+C:\Users\Usman Khan\Desktop\restApi\CorsTesting\CORSTesting\CORSTesting\obj\Debug\netcoreapp2.1\CORSTesting.AssemblyInfo.cs
+C:\Users\Usman Khan\Desktop\restApi\CorsTesting\CORSTesting\CORSTesting\obj\Debug\netcoreapp2.1\CORSTesting.TagHelpers.input.cache
+C:\Users\Usman Khan\Desktop\restApi\CorsTesting\CORSTesting\CORSTesting\obj\Debug\netcoreapp2.1\CORSTesting.TagHelpers.output.cache
+C:\Users\Usman Khan\Desktop\restApi\CorsTesting\CORSTesting\CORSTesting\obj\Debug\netcoreapp2.1\CORSTesting.RazorCoreGenerate.cache
+C:\Users\Usman Khan\Desktop\restApi\CorsTesting\CORSTesting\CORSTesting\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Usman Khan\Desktop\restApi\CorsTesting\CORSTesting\CORSTesting\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Usman Khan\Desktop\restApi\CorsTesting\CORSTesting\CORSTesting\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Usman Khan\Desktop\restApi\CorsTesting\CORSTesting\CORSTesting\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Usman Khan\Desktop\restApi\CorsTesting\CORSTesting\CORSTesting\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Usman Khan\Desktop\restApi\CorsTesting\CORSTesting\CORSTesting\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Usman Khan\Desktop\restApi\CorsTesting\CORSTesting\CORSTesting\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Usman Khan\Desktop\restApi\CorsTesting\CORSTesting\CORSTesting\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Usman Khan\Desktop\restApi\CorsTesting\CORSTesting\CORSTesting\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Usman Khan\Desktop\restApi\CorsTesting\CORSTesting\CORSTesting\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Usman Khan\Desktop\restApi\CorsTesting\CORSTesting\CORSTesting\obj\Debug\netcoreapp2.1\CORSTesting.RazorTargetAssemblyInfo.cache
+C:\Users\Usman Khan\Desktop\restApi\CorsTesting\CORSTesting\CORSTesting\obj\Debug\netcoreapp2.1\CORSTesting.RazorTargetAssemblyInfo.cs
+C:\Users\Usman Khan\Desktop\restApi\CorsTesting\CORSTesting\CORSTesting\obj\Debug\netcoreapp2.1\CORSTesting.Views.pdb
+C:\Users\Usman Khan\Desktop\restApi\CorsTesting\CORSTesting\CORSTesting\obj\Debug\netcoreapp2.1\CORSTesting.dll
+C:\Users\Usman Khan\Desktop\restApi\CorsTesting\CORSTesting\CORSTesting\obj\Debug\netcoreapp2.1\CORSTesting.pdb
+C:\Users\Usman Khan\Desktop\restApi\CorsTesting\CORSTesting\CORSTesting\obj\Debug\netcoreapp2.1\CORSTesting.csproj.CopyComplete

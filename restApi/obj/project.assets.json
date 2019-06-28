@@ -11804,11 +11804,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usman Khan\\Desktop\\restApi\\restApi.csproj",
+      "projectUniqueName": "C:\\Users\\Usman Khan\\Desktop\\restApi\\restApi\\restApi.csproj",
       "projectName": "restApi",
-      "projectPath": "C:\\Users\\Usman Khan\\Desktop\\restApi\\restApi.csproj",
+      "projectPath": "C:\\Users\\Usman Khan\\Desktop\\restApi\\restApi\\restApi.csproj",
       "packagesPath": "C:\\Users\\Usman Khan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usman Khan\\Desktop\\restApi\\obj\\",
+      "outputPath": "C:\\Users\\Usman Khan\\Desktop\\restApi\\restApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
