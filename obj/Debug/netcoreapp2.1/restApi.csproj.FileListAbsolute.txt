@@ -1,0 +1,14 @@
+C:\Users\Usman Khan\Desktop\restApi\obj\Debug\netcoreapp2.1\restApi.csprojAssemblyReference.cache
+C:\Users\Usman Khan\Desktop\restApi\obj\Debug\netcoreapp2.1\restApi.csproj.CoreCompileInputs.cache
+C:\Users\Usman Khan\Desktop\restApi\obj\Debug\netcoreapp2.1\restApi.RazorAssemblyInfo.cache
+C:\Users\Usman Khan\Desktop\restApi\obj\Debug\netcoreapp2.1\restApi.RazorAssemblyInfo.cs
+C:\Users\Usman Khan\Desktop\restApi\obj\Debug\netcoreapp2.1\restApi.AssemblyInfoInputs.cache
+C:\Users\Usman Khan\Desktop\restApi\obj\Debug\netcoreapp2.1\restApi.AssemblyInfo.cs
+C:\Users\Usman Khan\Desktop\restApi\bin\Debug\netcoreapp2.1\restApi.deps.json
+C:\Users\Usman Khan\Desktop\restApi\bin\Debug\netcoreapp2.1\restApi.runtimeconfig.json
+C:\Users\Usman Khan\Desktop\restApi\bin\Debug\netcoreapp2.1\restApi.runtimeconfig.dev.json
+C:\Users\Usman Khan\Desktop\restApi\bin\Debug\netcoreapp2.1\restApi.dll
+C:\Users\Usman Khan\Desktop\restApi\bin\Debug\netcoreapp2.1\restApi.pdb
+C:\Users\Usman Khan\Desktop\restApi\obj\Debug\netcoreapp2.1\restApi.RazorTargetAssemblyInfo.cache
+C:\Users\Usman Khan\Desktop\restApi\obj\Debug\netcoreapp2.1\restApi.dll
+C:\Users\Usman Khan\Desktop\restApi\obj\Debug\netcoreapp2.1\restApi.pdb
