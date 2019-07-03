@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "About";
+}
+<h2>@ViewData["Title"]</h2>
+<h3>@ViewData["Message"]</h3>
+
+<p>Use this area to provide additional information.</p>
+<p>Fetch Data</p>
+<div id="data"></div>
+@section scripts{
+    <script>
+        $(function () {
+            $.getJSON("https://localhost:44366/api/values/GetData", function (data) {
+                var items = [];
+                $.each(data, function (key, value) {
+                    items.push("<li>" + value + "</li>");
+                })
+                $("#data").html(items.join(""));
+            })
+
+        })
+
+    </script>
+
+
+}
